@@ -4,7 +4,7 @@ this script always runs commands as a normal user, even if you are root.
 
 i had this idea for a while. you can use it now!
 
-try to ```sudo nudo sudo nudo echo i am a normal user!```
+try to ```sudo nudo whoami```
 ## how do i use it?
 ```
 nudo <command>
